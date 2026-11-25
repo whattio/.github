@@ -6,13 +6,12 @@
 
 ---
 
-### About whatt.io
-**whatt.io** (Asgaard Technology, founded in Sweden) builds **decentralized Digital Product Passports (DPPs), sovereign product intelligence, and zero-IP cryptographic infrastructure** so brands, European industrial OEMs, critical infrastructure operators, and defense teams can **own their hardware, own their keys, and own their data**.
+### About whatt.io & Lostboyslab
+**whatt.io** is a bleeding-edge software company driving the future of digital product innovation with its comprehensive **Digital Product Passport (DPP)** platform ([discover.whattio.com](https://discover.whattio.com/#/)). As an active participant in the **CIRPASS-2** project, whatt.io ensures full alignment with EU standards (ESPR, EU Battery Regulation, GS1 Digital Link & EPCIS 2.0), revolutionizing how products are reused, repaired, refurbished, and recycled. Our cloud-based DPP platform leverages **Web3 (Polygon)**, **NFC hardware**, and **AI**—including our **Dolores AI** interface—to deliver instant access to critical product data, secure NFC-based authentication, verifiable digital ownership, and seamless spare parts ordering.
 
-What we build:
-1. **EU ESPR, CIRPASS-2 & IronPass Digital Product Passports ([discover.whattio.com](https://discover.whattio.com/#/)):** Active in EU DPP standardization (**CIRPASS-2**, Regulation (EU) 2024/1781, EU Battery Regulation, REACH/SVHC, CRMA, GS1 Digital Link, GS1 EPCIS 2.0, and **UNTP**) — from effortless zero-app consumer taps on `discover.whattio.com` to hardware-bound **NXP NTAG 424 DNA** tags and hash-chained **IronPass Ledgers**.
-2. **Sovereign Agentic AI OS (`Asgaard`):** Run local AI agents (**Heimdall**, **Andvari, Brokk & Sindri**) and 3D spatial vaults (**Sessrumnir** & **Gladsheim**) on customer-owned Linux hardware with native `/api/mcp` everywhere and zero cloud lock-in.
-3. **Zero-IP Security Fabric & Ghost Client (`Citadel` & `BIFROST`):** Close the last-meter server and browser metadata leak using 0-port hardened Debian/Ubuntu Linux enclaves (**Citadel**) and **BIFROST — The Reticulum Ghost Browser**, built as clean-room Rust application-layer tooling on top of MIT `Reticulum-rs`.
+**Lostboyslab** serves as the innovation and production arm, operating **autonomous additive manufacturing labs** where physical products are embedded with whatt.io’s Digital Product Passports—combining cloud computing, blockchain, AI, and advanced 3D printing to protect IP, enable local production, eliminate waste, and combat plastic pollution.
+
+**Extending the Mission to Zero-IP Sovereignty:** Built on the exact same EU ESPR & CIRPASS-2 data standards, our open-core sovereign stack adds **Asgaard** (Sovereign Agentic AI OS), **Citadel** (0-port Debian/Ubuntu Linux enclaves), **BIFROST** (*The Reticulum Ghost Browser*), and **IronPass & IronPass Ledger** (NXP NTAG 424 DNA + hash-chained GS1 EPCIS 2.0) so industrial OEMs, critical infrastructure, and defense teams can **own their hardware, own their keys, and own their data**.
 
 We build **open-core** so CISOs, security teams, and EU regulators can inspect every line of our compliance engines, wire transport, and browser—while enterprises partner with **whatt.io** for turnkey sovereign appliances, 15-year ESPR passport registries, hardware NFC silicon provisioning, and **Asgaard Enterprise**.
 
