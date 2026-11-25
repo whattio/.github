@@ -7,12 +7,12 @@
 ---
 
 ### About whatt.io
-**whatt.io** (Asgaard Technology, founded in Sweden) builds **sovereign product intelligence, verifiable Digital Product Passports, and zero-IP cryptographic infrastructure** so European industrial OEMs, critical infrastructure operators, and defense teams can **own their hardware, own their keys, and own their data**.
+**whatt.io** (Asgaard Technology, founded in Sweden) builds **decentralized Digital Product Passports (DPPs), sovereign product intelligence, and zero-IP cryptographic infrastructure** so brands, European industrial OEMs, critical infrastructure operators, and defense teams can **own their hardware, own their keys, and own their data**.
 
 What we build:
-1. **EU ESPR & CIRPASS-2 Digital Product Passports (`whatt.io` & `IronPass`):** Turn complex EU compliance (Regulation (EU) 2024/1781, REACH/SVHC, CRMA, GS1 Digital Link & EPCIS 2.0) into verifiable product passports — from effortless zero-app consumer taps (`whatt.io`) to hardware-bound **NXP NTAG 424 DNA** tags and hash-chained **IronPass Ledgers**.
+1. **EU ESPR, CIRPASS-2 & IronPass Digital Product Passports ([discover.whattio.com](https://discover.whattio.com/#/)):** Active in EU DPP standardization (**CIRPASS-2**, Regulation (EU) 2024/1781, EU Battery Regulation, REACH/SVHC, CRMA, GS1 Digital Link, GS1 EPCIS 2.0, and **UNTP**) — from effortless zero-app consumer taps on `discover.whattio.com` to hardware-bound **NXP NTAG 424 DNA** tags and hash-chained **IronPass Ledgers**.
 2. **Sovereign Agentic AI OS (`Asgaard`):** Run local AI agents (**Heimdall**, **Andvari, Brokk & Sindri**) and 3D spatial vaults (**Sessrumnir** & **Gladsheim**) on customer-owned Linux hardware with native `/api/mcp` everywhere and zero cloud lock-in.
-3. **Zero-IP Security Fabric & Ghost Client (`Citadel` & `BIFROST`):** Eliminate exposed server ports and browser metadata leaks using 0-port hardened Debian/Ubuntu Linux enclaves (**Citadel**) and **BIFROST — The Reticulum Ghost Browser** built in clean-room Rust.
+3. **Zero-IP Security Fabric & Ghost Client (`Citadel` & `BIFROST`):** Close the last-meter server and browser metadata leak using 0-port hardened Debian/Ubuntu Linux enclaves (**Citadel**) and **BIFROST — The Reticulum Ghost Browser**, built as clean-room Rust application-layer tooling on top of MIT `Reticulum-rs`.
 
 We build **open-core** so CISOs, security teams, and EU regulators can inspect every line of our compliance engines, wire transport, and browser—while enterprises partner with **whatt.io** for turnkey sovereign appliances, 15-year ESPR passport registries, hardware NFC silicon provisioning, and **Asgaard Enterprise**.
 
@@ -39,7 +39,7 @@ Standard HTTPS browsers expose DNS queries, IP addresses, TLS SNI hostnames, coo
 | **BIFROST** | *The Reticulum Ghost Browser* | 5 MB clean-room Rust browser (`bifrost://` & `ironpass://`) with **0 local HTTP ports, 0 DNS, 0 cookies**, RAM-only incognito sessions, local Rust Ed25519 verification, and optional local NPU/LLM AI omnibox. |
 | **IRONPASS** | Hardware Identity & **IronPass Ledger** | Hybrid `#ip=` NFC (NXP NTAG 424 DNA) & QR tags: consumers get a zero-app public EU ESPR tap; authorized operators cross **BIFROST** to verify the classified BOM & hash-chained GS1 EPCIS 2.0 **IronPass Ledger** in ~30 ms. |
 
-*Protocol Attribution:* Our Zero-IP networking builds on the **Public Domain Reticulum Wire Protocol** invented by Danish engineer **Mark Qvist** ([reticulum.network](https://reticulum.network)), implemented strictly in clean-room, commercial-safe **MIT Rust** (`citadel-rns-rs`) with zero restricted Python RNS dependencies.
+*Protocol Attribution:* Our Zero-IP application-layer tooling (`citadel-rns-rs` & `bifrost`, experimental developer previews) builds on the **Public Domain Reticulum Protocol** (dedicated to the public domain in 2016 by Danish engineer **Mark Qvist**, [reticulum.network](https://reticulum.network)) via the clean-room MIT Rust `Reticulum-rs` library—not claiming to replace the authoritative Python Reference Implementation, and focused strictly on defensive privacy, critical-infrastructure resilience, and EU ESPR compliance.
 
 ---
 
@@ -78,6 +78,7 @@ Standard HTTPS browsers expose DNS queries, IP addresses, TLS SNI hostnames, coo
 ### Sovereign Enterprise & Commercial Licensing
 Application repositories in this organization are dual-licensed under **GNU AGPLv3** + **Commercial License** (see [`COMMERCIAL-LICENSE.md`](../COMMERCIAL-LICENSE.md)) for proprietary embedding, OEM distribution, live EU regulatory feeds, 15-year ESPR passport hosting, turnkey **Citadel** Linux appliances, **IronPass NTAG 424 DNA** hardware provisioning, and full **Asgaard Agentic OS** orchestration.
 
+- 🧭 **Interactive Live DPP Discovery Portal:** [discover.whattio.com](https://discover.whattio.com/#/)
 - 🛡️ **Citadel, BIFROST & IronPass:** [citadel.ironpass.tech](https://citadel.ironpass.tech)
 - 🌐 **Asgaard Agentic OS:** [asgaard.whattio.me](https://asgaard.whattio.me)
 - 🚀 **Free Hosted Web Apps:** [whattio.app](https://whattio.app)
