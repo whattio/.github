@@ -1,17 +1,20 @@
-# whatt.io — Open-Source Ecosystem for Asgaard, Citadel & IronPass
+# whatt.io — Free & Open-Source Ecosystem for Digital Product Passports, Asgaard & Zero-IP Sovereignty
 
-> **Asgaard is the Sovereign Agentic OS & MCP Fabric that turns any open-source app into an agent-driven, DPP-connected workspace citizen—running on hardware you own.**
+> **We are publishing a broad, growing suite of free and open-source tools, validators, and web apps for everyday Digital Product Passports (EU ESPR, CIRPASS-2, REACH/SVHC, CRMA, GS1 Digital Link, EPCIS 2.0 & PCM)** — free to use hosted at [whattio.app](https://whattio.app), free to self-host with Docker, and open source right here on GitHub.
 >
-> **Citadel** is the Sovereign Zero-IP Linux Security Fabric, **BIFROST** is the Reticulum Ghost Browser connecting worlds with 0 open ports, and **IronPass** nails physical hardware identity and GS1 EPCIS 2.0 ledgers into iron.
+> Alongside our open DPP tools, **Asgaard** is our Sovereign Agentic OS & MCP Fabric, **Citadel** is our 0-Port Linux Security Fabric, **BIFROST** (*Zero-IP Ghost Browser · Powered by Reticulum*) closes the last-meter browser leak, and **IronPass** nails hardware identity and GS1 EPCIS 2.0 ledgers into iron.
 
 ---
+
+### Free & Open-Source DPP Tools First
+Whether you are a manufacturer preparing for **EU ESPR (Regulation (EU) 2024/1781)**, a sustainability engineer screening **Substances of Concern (REACH / SVHC / RoHS)** and **Critical Raw Materials (CRMA)**, or a developer building **CIRPASS-2 JSON-LD** and **GS1 Digital Link / EPCIS 2.0** pipelines, our goal is to give the entire industry **practical, free, open-source DPP apps and tools** you can run in minutes—with zero lock-in and native `/api/mcp` support for AI agents.
 
 ### About whatt.io & Lostboyslab
 **whatt.io** is a bleeding-edge software company driving the future of digital product innovation with its comprehensive **Digital Product Passport (DPP)** platform ([discover.whattio.com](https://discover.whattio.com/#/)). As an active participant in the **CIRPASS-2** project, whatt.io ensures full alignment with EU standards (ESPR, EU Battery Regulation, GS1 Digital Link & EPCIS 2.0), revolutionizing how products are reused, repaired, refurbished, and recycled. Our cloud-based DPP platform leverages **Web3 (Polygon)**, **NFC hardware**, and **AI**—including our **Dolores AI** interface—to deliver instant access to critical product data, secure NFC-based authentication, verifiable digital ownership, and seamless spare parts ordering.
 
 **Lostboyslab** serves as the innovation and production arm, operating **autonomous additive manufacturing labs** where physical products are embedded with whatt.io’s Digital Product Passports—combining cloud computing, blockchain, AI, and advanced 3D printing to protect IP, enable local production, eliminate waste, and combat plastic pollution.
 
-**Extending the Mission to Zero-IP Sovereignty:** Built on the exact same EU ESPR & CIRPASS-2 data standards, our open-core sovereign stack adds **Asgaard** (Sovereign Agentic AI OS), **Citadel** (0-port Debian/Ubuntu Linux enclaves), **BIFROST** (*The Reticulum Ghost Browser*), and **IronPass & IronPass Ledger** (NXP NTAG 424 DNA + hash-chained GS1 EPCIS 2.0) so industrial OEMs, critical infrastructure, and defense teams can **own their hardware, own their keys, and own their data**.
+**Extending the Mission to Zero-IP Sovereignty:** Built on the exact same EU ESPR & CIRPASS-2 data standards, our open-core sovereign stack adds **Asgaard** (Sovereign Agentic AI OS), **Citadel** (0-port Debian/Ubuntu Linux enclaves), **BIFROST** (*Zero-IP Ghost Browser · Powered by Reticulum*), and **IronPass & IronPass Ledger** (NXP NTAG 424 DNA + hash-chained GS1 EPCIS 2.0) so industrial OEMs, critical infrastructure, and defense teams can **own their hardware, own their keys, and own their data**.
 
 We build **open-core** so CISOs, security teams, and EU regulators can inspect every line of our compliance engines, wire transport, and browser—while enterprises partner with **whatt.io** for turnkey sovereign appliances, 15-year ESPR passport registries, hardware NFC silicon provisioning, and **Asgaard Enterprise**.
 
