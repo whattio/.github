@@ -6,6 +6,18 @@
 
 ---
 
+### About whatt.io
+**whatt.io** (Asgaard Technology, founded in Sweden) builds **sovereign product intelligence, verifiable Digital Product Passports, and zero-IP cryptographic infrastructure** so European industrial OEMs, critical infrastructure operators, and defense teams can **own their hardware, own their keys, and own their data**.
+
+What we build:
+1. **EU ESPR & CIRPASS-2 Digital Product Passports (`whatt.io` & `IronPass`):** Turn complex EU compliance (Regulation (EU) 2024/1781, REACH/SVHC, CRMA, GS1 Digital Link & EPCIS 2.0) into verifiable product passports — from effortless zero-app consumer taps (`whatt.io`) to hardware-bound **NXP NTAG 424 DNA** tags and hash-chained **IronPass Ledgers**.
+2. **Sovereign Agentic AI OS (`Asgaard`):** Run local AI agents (**Heimdall**, **Andvari, Brokk & Sindri**) and 3D spatial vaults (**Sessrumnir** & **Gladsheim**) on customer-owned Linux hardware with native `/api/mcp` everywhere and zero cloud lock-in.
+3. **Zero-IP Security Fabric & Ghost Client (`Citadel` & `BIFROST`):** Eliminate exposed server ports and browser metadata leaks using 0-port hardened Debian/Ubuntu Linux enclaves (**Citadel**) and **BIFROST — The Reticulum Ghost Browser** built in clean-room Rust.
+
+We build **open-core** so CISOs, security teams, and EU regulators can inspect every line of our compliance engines, wire transport, and browser—while enterprises partner with **whatt.io** for turnkey sovereign appliances, 15-year ESPR passport registries, hardware NFC silicon provisioning, and **Asgaard Enterprise**.
+
+---
+
 ### Core Focus Areas
 - **Digital Product Passports (DPP):** EU ESPR (Regulation (EU) 2024/1781), CIRPASS-2 JSON-LD, GS1 Digital Link, GS1 EPCIS 2.0, Substances of Concern (SoC), and Critical Raw Materials (CRM) compliance tooling.
 - **Zero-IP Sovereign Networking (Reticulum + BIFROST):** Closing *"The Last-Meter Leak"* in CIRPASS-2 & EU ESPR — end-to-end encrypted **512-bit Curve25519 (X25519 + Ed25519)** links across untrusted Fiber, Starlink, 5G & Sub-GHz LoRa with **0 open server ports, 0 local HTTP sockets, 0 DNS, and 0 cookies**.
